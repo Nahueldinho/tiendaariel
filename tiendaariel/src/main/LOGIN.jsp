@@ -10,7 +10,7 @@
                 <div class="card-body p-md-5 mx-md-4">
   
                   <div class="text-center">
-                    <img src="https://mdbcdn.b-cdn.net/img/Photos/new-templates/bootstrap-login-form/lotus.webp"
+                    <img src="C:\Users\001\Documents\GitHub\tiendaariel\tiendaariel\src\IMG">
                       style="width: 185px;" alt="logo">
                     <h4 class="mt-1 mb-5 pb-1">We are The Lotus Team</h4>
                   </div>
