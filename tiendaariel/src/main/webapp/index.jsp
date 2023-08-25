@@ -10,11 +10,6 @@
 <main>
     <jsp:include page="Carrusel.jsp"></jsp:include>
 
-
-
-
-
-
     <!--tarjetas-->
     <jsp:include page="tarjetas.jsp"></jsp:include>
 
