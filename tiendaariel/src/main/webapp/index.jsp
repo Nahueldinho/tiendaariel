@@ -42,8 +42,8 @@
                     <div class="row">
                         <div class="col-lg-8 offset-lg-4">
                             <h3>Conf ProA</h3>
-                            <p>Bs. As. llega por primera vez a la Argentina. Un evento para compartir con nuestra comunidad el conocimiento y la experiencia de los expertos que están creando el futuro de internet. Ven a conocer a miembros del evento, a otros estudiantes de Codo a Codo y a los oradores de primer nivel que tenemos para ti. Te esperamos!</p>
-                            <p><a class="btn btn-outline-light mb-3" href="#formulario">Quiero ser orador</a> <a class="btn btn-success mb-3" href="#">Comprar tickets</a></p>
+                            <p>Nuevos productos con todo el flow para vos... </p>
+                            <p><a class="btn btn-outline-light mb-3" href="#formulario">Quiero verlos</a> <a class="btn btn-success mb-3" href="#">Comprar...</a></p>
                         </div>
                     </div>
                 </div>
@@ -55,8 +55,8 @@
                     <div class="row">
                         <div class="col-lg-8 offset-lg-4">
                             <h3>Conf ProA</h3>
-                            <p>Bs. As. llega por primera vez a la Argentina. Un evento para compartir con nuestra comunidad el conocimiento y la experiencia de los expertos que están creando el futuro de internet. Ven a conocer a miembros del evento, a otros estudiantes de Codo a Codo y a los oradores de primer nivel que tenemos para ti. Te esperamos!</p>
-                            <p><a class="btn btn-outline-light mb-3" href="#formulario">Quiero ser orador</a> <a class="btn btn-success mb-3" href="#">Comprar tickets</a></p>
+                            <p>Nuevos productos con todo el flow para vos... </p>
+                            <p><a class="btn btn-outline-light mb-3" href="#formulario">Quiero verlos</a> <a class="btn btn-success mb-3" href="#">Comprar...</a></p>
                         </div>
                     </div>
                 </div>
@@ -67,8 +67,8 @@
                     <div class="row">
                         <div class="col-lg-8 offset-lg-4">
                             <h3>Conf ProA</h3>
-                            <p>Bs. As. llega por primera vez a la Argentina. Un evento para compartir con nuestra comunidad el conocimiento y la experiencia de los expertos que están creando el futuro de internet. Ven a conocer a miembros del evento, a otros estudiantes de Codo a Codo y a los oradores de primer nivel que tenemos para ti. Te esperamos!</p>
-                            <p><a class="btn btn-outline-light mb-3" href="#formulario">Quiero ser orador</a> <a class="btn btn-success mb-3" href="#">Comprar tickets</a></p>
+                            <p>Nuevos productos con todo el flow para vos... </p>
+                            <p><a class="btn btn-outline-light mb-3" href="#formulario">Quiero verlos</a> <a class="btn btn-success mb-3" href="#">Comprar...</a></p>
                         </div>
                     </div>
                 </div>
@@ -90,14 +90,14 @@
 
 
     <!--tarjetas-->
-    <h5><p class="text-center mt-3">CONOCE A LOS</p></h5>
-    <h3><p class="text-center">ORADORES</p></h3>
+    <h5><p class="text-center mt-3">CONOCE LOS PRODUCTOS MAS VENDIDOS</p></h5>
+    <h3><p class="text-center">DEL MOMENTO</p></h3>
     <div class="container">
         <div class="card-group mt-3">
             <div class="card" style="width: 2,8%; padding:1%">
                 <img src="IMG/steve.jpg" class="card-img-top" alt="...">
                 <div class="card-body">
-                    <h5 class="card-title">Steve Jobs</h5>
+                    <h5 class="card-title">CAMPERA SUPREME</h5>
                     <span class="badge badge-warning">Javascript</span>
                     <span class="badge badge-info">React</span>
                     <p class="card-text">​​​​Fue un empresario, diseñador industrial, magnate empresarial, propietario de medios e inversor estadounidense. Fue cofundador y presidente ejecutivo de Apple​ y máximo accionista individual de The Walt Disney Company.</p>
@@ -106,16 +106,16 @@
             <div class="card" style="width: 2,8%; padding:1%">
                 <img src="IMG/bill.jpg" class="card-img-top" alt="...">
                 <div class="card-body">
-                    <h5 class="card-title">Bill Gates</h5>
+                    <h5 class="card-title">CAMPERA THE NORTH FACE</h5>
                     <span class="badge badge-warning">Javascript</span>
                     <span class="badge badge-info">React</span>
                     <p class="card-text">Es un magnate empresarial, desarrollador de software, inversor, autor y filántropo estadounidense. Es cofundador de Microsoft, junto con su difunto amigo de la infancia Paul Allen.</p>
                 </div>
             </div>
             <div class="card" style="width: 2,8%; padding:1%">
-                <img src="IMG/ada.jpeg" class="card-img-top" alt="...">
+                <img src="" class="card-img-top" alt="...">
                 <div class="card-body">
-                    <h5 class="card-title">Ada Lovelace</h5>
+                    <h5 class="card-title">NIKE JORDAN'S</h5>
                     <span class="badge badge-secondary">Negocios</span>
                     <span class="badge badge-danger">Startups</span>
                     <p class="card-text">Fue una matemática y escritora británica, célebre sobre todo por su trabajo acerca de la computadora mecánica de uso general de Charles Babbage, la denominada máquina analítica.</p>
