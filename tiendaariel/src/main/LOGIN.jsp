@@ -12,7 +12,7 @@
                   <div class="text-center">
                     <img src="C:\Users\001\Documents\GitHub\tiendaariel\tiendaariel\src\IMG">
                       style="width: 185px;" alt="logo">
-                    <h4 class="mt-1 mb-5 pb-1">We are The Lotus Team</h4>
+                    <h4 class="mt-1 mb-5 pb-1">somos tu tienda de ropa</h4>
                   </div>
   
                   <form>
