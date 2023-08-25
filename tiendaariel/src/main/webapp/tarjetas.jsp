@@ -11,30 +11,30 @@
 <div class="container">
     <div class="card-group mt-3">
         <div class="card" style="width: 2,8%; padding:1%">
-            <img src="IMG/steve.jpg" class="card-img-top" alt="...">
+            <img src="img/campera%20supreme.jpg" class="card-img-top" alt="...">
             <div class="card-body">
-                <h5 class="card-title">Steve Jobs</h5>
-                <span class="badge badge-warning">Javascript</span>
-                <span class="badge badge-info">React</span>
-                <p class="card-text">​​​​Fue un empresario, diseñador industrial, magnate empresarial, propietario de medios e inversor estadounidense. Fue cofundador y presidente ejecutivo de Apple​ y máximo accionista individual de The Walt Disney Company.</p>
+                <h5 class="card-title">CAMPERA SUPREME</h5>
+                <span class="badge badge-warning">SUPREME</span>
+                <span class="badge badge-info">NUEVO</span>
+                <p class="card-text">"La campera Supreme: estilo icónico que marca la diferencia."</p>
             </div>
         </div>
         <div class="card" style="width: 2,8%; padding:1%">
-            <img src="IMG/bill.jpg" class="card-img-top" alt="...">
+            <img src="img/campera%20supreme%203.jpg" class="card-img-top" alt="...">
             <div class="card-body">
-                <h5 class="card-title">Bill Gates</h5>
-                <span class="badge badge-warning">Javascript</span>
-                <span class="badge badge-info">React</span>
-                <p class="card-text">Es un magnate empresarial, desarrollador de software, inversor, autor y filántropo estadounidense. Es cofundador de Microsoft, junto con su difunto amigo de la infancia Paul Allen.</p>
+                <h5 class="card-title">CAMPERA THE NORTH FACE</h5>
+                <span class="badge badge-warning">SUPREME</span>
+                <span class="badge badge-info">NUEVO</span>
+                <p class="card-text">"Descubre la esencia del aventurero con la campera The North Face. Diseño innovador y protección sin igual para explorar sin límites."</p>
             </div>
         </div>
         <div class="card" style="width: 2,8%; padding:1%">
-            <img src="IMG/ada.jpeg" class="card-img-top" alt="...">
+            <img src="img/air-jordan-1-2.jpg" class="card-img-top" alt="...">
             <div class="card-body">
-                <h5 class="card-title">Ada Lovelace</h5>
-                <span class="badge badge-secondary">Negocios</span>
-                <span class="badge badge-danger">Startups</span>
-                <p class="card-text">Fue una matemática y escritora británica, célebre sobre todo por su trabajo acerca de la computadora mecánica de uso general de Charles Babbage, la denominada máquina analítica.</p>
+                <h5 class="card-title">JORDAN'S TRAVIS SCOTT</h5>
+                <span class="badge badge-secondary">SNEACKERS</span>
+                <span class="badge badge-danger">NUEVO</span>
+                <p class="card-text">"Camina con el estilo legendario de Travis Scott con las Jordans que marcan tendencia. Eleva tu juego, ¡sé parte de la cultura!"</p>
             </div>
         </div>
     </div>

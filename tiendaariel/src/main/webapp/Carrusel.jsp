@@ -20,8 +20,8 @@
                 <div class="row">
                     <div class="col-lg-8 offset-lg-4">
                         <h3>Conf ProA</h3>
-                        <p>Bs. As. llega por primera vez a la Argentina. Un evento para compartir con nuestra comunidad el conocimiento y la experiencia de los expertos que están creando el futuro de internet. Ven a conocer a miembros del evento, a otros estudiantes de Codo a Codo y a los oradores de primer nivel que tenemos para ti. Te esperamos!</p>
-                        <p><a class="btn btn-outline-light mb-3" href="#formulario">Quiero ser orador</a> <a class="btn btn-success mb-3" href="#">Comprar tickets</a></p>
+                        <p>NUEVOS PRODUCTOS CON TODO EL FLOW PARA VOS</p>
+                        <p><a class="btn btn-outline-light mb-3" href="#formulario">QUIERO VER</a> <a class="btn btn-success mb-3" href="#">VER CARRITO</a></p>
                     </div>
                 </div>
             </div>
@@ -33,8 +33,8 @@
                 <div class="row">
                     <div class="col-lg-8 offset-lg-4">
                         <h3>Conf ProA</h3>
-                        <p>Bs. As. llega por primera vez a la Argentina. Un evento para compartir con nuestra comunidad el conocimiento y la experiencia de los expertos que están creando el futuro de internet. Ven a conocer a miembros del evento, a otros estudiantes de Codo a Codo y a los oradores de primer nivel que tenemos para ti. Te esperamos!</p>
-                        <p><a class="btn btn-outline-light mb-3" href="#formulario">Quiero ser orador</a> <a class="btn btn-success mb-3" href="#">Comprar tickets</a></p>
+                        <p>NUEVOS PRODUCTOS CON TODO EL FLOW PARA VOS</p>
+                        <p><a class="btn btn-outline-light mb-3" href="#formulario">QUIERO VER</a> <a class="btn btn-success mb-3" href="#">VER CARRITO</a></p>
                     </div>
                 </div>
             </div>
@@ -45,8 +45,8 @@
                 <div class="row">
                     <div class="col-lg-8 offset-lg-4">
                         <h3>Conf ProA</h3>
-                        <p>Bs. As. llega por primera vez a la Argentina. Un evento para compartir con nuestra comunidad el conocimiento y la experiencia de los expertos que están creando el futuro de internet. Ven a conocer a miembros del evento, a otros estudiantes de Codo a Codo y a los oradores de primer nivel que tenemos para ti. Te esperamos!</p>
-                        <p><a class="btn btn-outline-light mb-3" href="#formulario">Quiero ser orador</a> <a class="btn btn-success mb-3" href="#">Comprar tickets</a></p>
+                        <p>NUEVOS PRODUCTOS CON TODO EL FLOW PARA VOS</p>
+                        <p><a class="btn btn-outline-light mb-3" href="#formulario">QUIERO VER</a> <a class="btn btn-success mb-3" href="#">VER CARRITO</a></p>
                     </div>
                 </div>
             </div>

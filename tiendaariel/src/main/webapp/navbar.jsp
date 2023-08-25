@@ -14,10 +14,10 @@
         </button>
         <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
             <div class="navbar-nav mx-auto">
-                <a class="nav-link active" aria-current="page" href="#">La Conferencia</a>
-                <a class="nav-link" href="#">Los oradores</a>
-                <a class="nav-link" href="#">El lugar y la fecha</a>
-                <a class="nav-link" href="index.jsp#ariel">Conviérte en orador</a>
+                <a class="nav-link active" aria-current="page" href="#">NUEVO</a>
+                <a class="nav-link" href="#">ZAPAS</a>
+                <a class="nav-link" href="#">ROPA</a>
+                <a class="nav-link" href="index.jsp#ariel">ACCESORIOS</a>
                 <a class="nav-link" href="LOGIN.jsp">Login</a>
                 <a class="nav-link" href="REGISTER.jsp">Register</a>
             </div>
