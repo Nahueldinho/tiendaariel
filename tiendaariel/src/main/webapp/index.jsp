@@ -2,7 +2,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Proyecto Evaluativo</title>
+    <title>pilcha's</title>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/css/bootstrap.min.css" integrity="sha384-xOolHFLEh07PJGoPkLv1IbcEPTNtaed2xpHsD9ESMhqIYd0nLMwNLD69Npy4HI+N" crossorigin="anonymous">
     <link rel="stylesheet" href="./c.css">
 </head>
@@ -37,7 +37,7 @@
 
         <div class="carousel-inner" style="background-color: black;">
             <div class="carousel-item active">
-                <img  src="./IMG/ba1.jpg" class="d-block w-100 opac" alt="First slide" style=" height: 70%;">
+                <img  src="./IMG/fondo6.jpg" class="d-block w-100 opac" alt="First slide" style=" height: 70%;">
                 <div class="carousel-caption text-end pb-5">
                     <div class="row">
                         <div class="col-lg-8 offset-lg-4">
@@ -50,7 +50,7 @@
             </div>
 
             <div class="carousel-item">
-                <img class="d-block w-100 opac" src="IMG/hawaii2.jpg" alt="Second slide" style="height: 70% ; ">
+                <img class="d-block w-100 opac" src="./IMG/fondo4.jpg" alt="Second slide" style="height: 70% ; ">
                 <div class="carousel-caption text-end pb-5">
                     <div class="row">
                         <div class="col-lg-8 offset-lg-4">
@@ -62,7 +62,7 @@
                 </div>
             </div>
             <div class="carousel-item">
-                <img class="d-block w-100 opac" src="IMG/ba1.jpg" alt="Third slide" style="height: 70%; ">
+                <img class="d-block w-100 opac" src="./IMG/fondo5.jpg" alt="Third slide" style="height: 70%; ">
                 <div class="carousel-caption text-end pb-5">
                     <div class="row">
                         <div class="col-lg-8 offset-lg-4">
