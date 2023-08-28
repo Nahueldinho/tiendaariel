@@ -15,9 +15,9 @@
         <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
             <div class="navbar-nav mx-auto">
                 <a class="nav-link active" aria-current="page" href="#">NUEVO</a>
-                <a class="nav-link" href="#">ZAPAS</a>
-                <a class="nav-link" href="#">ROPA</a>
-                <a class="nav-link" href="index.jsp#ariel">ACCESORIOS</a>
+                <a class="nav-link" href="index.jsp#Remeras">REMERAS</a>
+                <a class="nav-link" href="index.jsp#Camperas">CAMPERAS</a>
+                <a class="nav-link" href="index.jsp#Zapas">ZAPAS</a>
                 <a class="nav-link" href="LOGIN.jsp">Login</a>
                 <a class="nav-link" href="REGISTER.jsp">Register</a>
             </div>
