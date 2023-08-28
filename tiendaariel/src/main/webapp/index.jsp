@@ -14,8 +14,6 @@
     <jsp:include page="tarjetas.jsp"></jsp:include>
 
 
-    <!--Formulario-->
-    <jsp:include page="formulario.jsp"></jsp:include>
 
 </main>
 <jsp:include page="footer.jsp"></jsp:include>
