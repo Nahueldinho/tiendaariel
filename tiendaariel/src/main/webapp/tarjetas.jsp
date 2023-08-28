@@ -40,10 +40,11 @@
     </div>
 </div>
 <br></br>
+<br>
 <div class="container">
     <div class="card-group mt-3" id="Camperas">
         <div class="card" style="width: 2,8%; padding:1%">
-            <img src="img/campera%20supreme%203.jp" class="card-img-top" alt="...">
+            <img src="img/campera%20supreme%203.jpg" class="card-img-top" alt="...">
             <div class="card-body">
                 <h5 class="card-title">CAMPERA SUPREME</h5>
                 <span class="badge badge-warning">SUPREME</span>
@@ -71,6 +72,7 @@
         </div>
     </div>
 </div>
+<br>
 <br>
 <div class="container">
     <div class="card-group mt-3" id="Zapas">

@@ -7,13 +7,13 @@
 --%>
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel" data-interval="2000" style="background-color: black;">
-    <ol class="carousel-indicators">
+    <ol class="carousel-indicators" >
         <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
         <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
         <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
     </ol>
 
-    <div class="carousel-inner" style="background-color: black;">
+    <div class="carousel-inner" style="background-color: black;" id="Inicio">
         <div class="carousel-item active">
             <img  src="img/fondo4.jpg" class="d-block w-100 opac" alt="First slide" style=" height: 70%;">
             <div class="carousel-caption text-end pb-5">
