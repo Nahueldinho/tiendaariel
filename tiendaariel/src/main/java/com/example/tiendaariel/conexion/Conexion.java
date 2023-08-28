@@ -1,5 +1,5 @@
 
-package com.ecommerce.conexion;
+package com.example.tiendaariel.conexion;
 
 import java.sql.Connection;
 import java.sql.DriverManager;

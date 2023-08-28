@@ -1,4 +1,4 @@
-package com.example.ropa;
+package com.example.tiendaariel.controladores;
 
 import java.io.*;
 import jakarta.servlet.http.*;

@@ -1,7 +1,6 @@
-package com.ecommerce.controladores;
+package com.example.tiendaariel.controladores;
 
 import com.ecommerce.DAO.UsuarioDAO;
-import com.ecommerce.conexion.Conexion;
 import com.ecommerce.entidades.Usuario;
 import com.ecommerce.impementacionDAO.UsuarioDAOImplem;
 import jakarta.servlet.RequestDispatcher;
@@ -12,9 +11,6 @@ import jakarta.servlet.http.HttpServletResponse;
 import jakarta.servlet.http.HttpSession;
 
 import java.io.IOException;
-import java.sql.Connection;
-import java.sql.PreparedStatement;
-import java.sql.ResultSet;
 
 @WebServlet(name = "login", value = "/login")
 public class LoginControlador extends HelloServlet{
