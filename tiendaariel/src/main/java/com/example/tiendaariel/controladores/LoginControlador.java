@@ -1,8 +1,5 @@
 package com.example.tiendaariel.controladores;
 
-import com.ecommerce.DAO.UsuarioDAO;
-import com.ecommerce.entidades.Usuario;
-import com.ecommerce.impementacionDAO.UsuarioDAOImplem;
 import jakarta.servlet.RequestDispatcher;
 import jakarta.servlet.ServletException;
 import jakarta.servlet.annotation.WebServlet;

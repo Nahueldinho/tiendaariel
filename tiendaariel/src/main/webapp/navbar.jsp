@@ -15,12 +15,12 @@
         </button>
         <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
             <div class="navbar-nav mx-auto">
-                <a class="nav-link active" aria-current="page" href="index.jsp#Inicio">NUEVO</a>
+                <a class="nav-link" aria-current="page" href="index.jsp#Inicio">NUEVO</a>
                 <a class="nav-link" href="index.jsp#Remeras">REMERAS</a>
                 <a class="nav-link" href="index.jsp#Camperas">CAMPERAS</a>
                 <a class="nav-link" href="index.jsp#Zapas">ZAPAS</a>
-                <a class="nav-link" href="LOGIN.jsp">Login</a>
-                <a class="nav-link" href="REGISTER.jsp">Register</a>
+                <a class="nav-link active" href="LOGIN.jsp">LOGIN</a>
+                <a class="nav-link active" href="REGISTER.jsp">REGISTRO</a>
             </div>
         </div>
     </div>
