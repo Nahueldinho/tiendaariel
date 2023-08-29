@@ -16,11 +16,11 @@
                   <div class="text-center">
                     <img src="img/logo.jpeg">
                       style="width: 185px;" alt="logo">
-                    <h4 class="mt-1 mb-5 pb-1">somos tu tienda de ropa</h4>
+                    <h4 class="mt-1 mb-5 pb-1">Somos tu tienda de ropa</h4>
                   </div>
   
                   <form>
-                    <p>Porfavor inicia sesion en tu cuenta</p>
+                    <p>Por favor inicia sesion en tu cuenta</p>
   
                     <div class="form-outline mb-4">
                       <input type="email" id="form2Example11" class="form-control"
@@ -41,7 +41,7 @@
   
                     <div class="d-flex align-items-center justify-content-center pb-4">
                       <p class="mb-0 me-2">Todavia no tienes una cuenta?</p>
-                      <button type="button" class="btn btn-outline-danger">Create new</button>
+                      <button type="button" class="btn btn-outline-danger">Registrarme ahora</button>
                     </div>
   
                   </form>
@@ -50,10 +50,8 @@
               </div>
               <div class="col-lg-6 d-flex align-items-center gradient-custom-2">
                 <div class="text-white px-3 py-4 p-md-5 mx-md-4">
-                  <h4 class="mb-4">We are more than just a company</h4>
-                  <p class="small mb-0">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-                    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud
-                    exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+                  <h4 class="mb-4">somos mas que una simple tienda de ropa urbana, somos Pilcha's</h4>
+                  <p class="small mb-0">"Conectá con el auténtico ritmo urbano, donde el trap, el hip hop y el drip se fusionan en tu estilo de vida, en cada prenda que elegís."</p>
                 </div>
               </div>
             </div>
