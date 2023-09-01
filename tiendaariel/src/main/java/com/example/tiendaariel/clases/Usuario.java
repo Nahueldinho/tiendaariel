@@ -5,22 +5,22 @@ public class Usuario {
     private String nombre;
     private String apellido;
     private String usuario;
-    private String contraseña;
+    private String password;
     private String correo;
 
     public Usuario() {
     }
 
-    public Usuario(int id, String nombre, String apellido, String usuario, String contraseña, String correo) {
+    public Usuario(int id, String nombre, String apellido, String usuario, String password, String correo) {
         this.id = id;
         this.nombre = nombre;
         this.apellido = apellido;
         this.usuario = usuario;
-        this.contraseña = contraseña;
+        this.password = password;
         this.correo = correo;
     }
 
-    public int getId() { 
+    public int getId() {
         return id;
     }
 
@@ -52,12 +52,12 @@ public class Usuario {
         this.usuario = usuario;
     }
 
-    public String getContraseña() {
-        return contraseña;
+    public String getPassword() {
+        return password;
     }
 
-    public void setContraseña(String contraseña) {
-        this.contraseña = contraseña;
+    public void setPassword(String password) {
+        this.password = password;
     }
 
     public String getCorreo() {
