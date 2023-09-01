@@ -20,7 +20,7 @@ public class Usuario {
         this.correo = correo;
     }
 
-    public int getId() {
+    public int getId() { 
         return id;
     }
 
