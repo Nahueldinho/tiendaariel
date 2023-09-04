@@ -13,3 +13,4 @@ public interface UsuarioDAO {
 
     public void eliminarUsuario(int id);
 }
+ 
