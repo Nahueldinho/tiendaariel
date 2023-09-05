@@ -15,8 +15,8 @@
               <div class="col-lg-6">
                 <div class="card-body p-md-5 mx-md-4">
                   <div class="text-center">
-                    <img src="img/logo.jpeg">
-                    
+                    <img src="img/logo.jpeg" class="w-50 h-0">
+
                     <h4 class="mt-1 mb-5 pb-1">Somos tu tienda de ropa</h4>
                   </div>
                   <form>
@@ -47,8 +47,8 @@
               </div>
               <div class="col-lg-6 d-flex align-items-center gradient-custom-2">
                 <div class="text-white px-3 py-4 p-md-5 mx-md-4">
-                  <h4 class="mb-4">somos mas que una simple tienda de ropa urbana, somos Pilcha's</h4>
-                  <p class="small mb-0">"Conectá con el auténtico ritmo urbano, donde el trap, el hip hop y el drip se fusionan en tu estilo de vida, en cada prenda que elegís."</p>
+                  <h4 style="color: black;">somos mas que una simple tienda de ropa urbana, somos Pilcha's</h4>
+                  <p style="color: black;">"Conectá con el auténtico ritmo urbano, donde el trap, el hip hop y el drip se fusionan en tu estilo de vida, en cada prenda que elegís."</p>
                 </div>
               </div>
             </div>
