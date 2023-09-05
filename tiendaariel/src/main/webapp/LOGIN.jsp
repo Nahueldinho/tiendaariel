@@ -1,9 +1,11 @@
+<%@ page contentType="text/html;charset=UTF-8" language="java" %>
+<html>
 <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-4bw+/aepP/YC94hEpVNVgiZdgIC5+VKNBQNGCHeKRQN+PtmoHDEXuppvnDJzQIu9" crossorigin="anonymous">
-
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/js/bootstrap.bundle.min.js" integrity="sha384-HwwvtgBNo3bZJJLYd8oVXjrBZt8cqVSpeBNS5n7C8IVInixGAoxmnlMuBnhbgrkm" crossorigin="anonymous"></script>
 <head>
   <jsp:include page="navbar.jsp"></jsp:include>
 </head>
+<body>
 <section class="h-100 gradient-form" style="background-color: #eee;">
   <div class="container py-5 h-100">
       <div class="row d-flex justify-content-center align-items-center h-100">
@@ -12,16 +14,13 @@
             <div class="row g-0">
               <div class="col-lg-6">
                 <div class="card-body p-md-5 mx-md-4">
-  
                   <div class="text-center">
                     <img src="img/logo.jpeg">
-                      style="width: 185px;" alt="logo">
+                    
                     <h4 class="mt-1 mb-5 pb-1">Somos tu tienda de ropa</h4>
                   </div>
-  
                   <form>
                     <p>Por favor inicia sesion en tu cuenta</p>
-  
                     <div class="form-outline mb-4">
                       <input type="email" id="form2Example11" class="form-control"
                         placeholder="ingrese su direccion de correo electronico" />
@@ -43,9 +42,7 @@
                       <p class="mb-0 me-2">Todavia no tienes una cuenta?</p>
                       <button type="button" class="btn btn-outline-danger">Registrarme ahora</button>
                     </div>
-  
                   </form>
-  
                 </div>
               </div>
               <div class="col-lg-6 d-flex align-items-center gradient-custom-2">
@@ -60,3 +57,5 @@
       </div>
     </div>
   </section>
+</body>
+</html>

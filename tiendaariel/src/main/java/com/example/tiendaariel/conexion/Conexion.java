@@ -8,7 +8,7 @@ import java.sql.SQLException;
 public class Conexion {
 
     private static final String CONTROLADOR = "com.mysql.cj.jdbc.Driver";
-    private static final String URL = "jdbc:mysql://localhost:3306/proa?serverTimezone=UTC"; //reemplazar nombreBase por el nombre de la base de datos
+    private static final String URL = "jdbc:mysql://localhost:3306/tiendaariel?serverTimezone=UTC"; //reemplazar nombreBase por el nombre de la base de datos
     private static final String USUARIO = "root";
     private static final String CLAVE = "root";
 
