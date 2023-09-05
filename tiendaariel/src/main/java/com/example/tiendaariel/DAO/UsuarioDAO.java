@@ -5,7 +5,7 @@ import com.example.tiendaariel.clases.Usuario;
 import java.util.List;
 
 public interface UsuarioDAO {
-    public List<Usuario> obtenerTodosLosUsuario();
+    public List<Usuario> obtenerTodosLosUsuarios();
     public Usuario obtenerUsuarioPorId(int id);
     public Usuario obtenerUsuario(String usuario, String password);
     public void agregarUsuario(Usuario usuario);
