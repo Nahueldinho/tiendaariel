@@ -1,11 +1,11 @@
 package com.example.tiendaariel.clases;
 
-public class ropa extends Producto{
+public class Ropa extends Producto{
     private String genero;
     private String tela;
-    public ropa() {
+    public Ropa() {
     }
-    public ropa(String genero, String tela) {
+    public Ropa(String genero, String tela) {
         this.genero = genero;
         this.tela = tela;
     }

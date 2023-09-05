@@ -1,11 +1,11 @@
 package com.example.tiendaariel.clases;
 
-public class accesorios extends Producto{
+public class Accesorios extends Producto{
     private String material;
     private double peso;
-    public accesorios() {
+    public Accesorios() {
     }
-    public accesorios(String material, double peso) {
+    public Accesorios(String material, double peso) {
         this.material = material;
         this.peso = peso;
     }
