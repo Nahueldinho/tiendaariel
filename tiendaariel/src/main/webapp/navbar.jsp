@@ -20,7 +20,6 @@
                 <a class="nav-link" href="index.jsp#Camperas">CAMPERAS</a>
                 <a class="nav-link" href="index.jsp#Zapas">ZAPAS</a>
                 <a class="nav-link active" href="LOGIN.jsp">LOGIN</a>
-                <a class="nav-link active" href="REGISTER.jsp">REGISTRO</a>
             </div>
         </div>
     </div>

@@ -39,8 +39,8 @@
                     </div>
   
                     <div class="d-flex align-items-center justify-content-center pb-4">
-                      <p class="mb-0 me-2">Todavia no tienes una cuenta?</p>
-                      <button type="button" class="btn btn-outline-danger">Registrarme ahora</button>
+                      <p class="mb-0 me-2" >Todavia no tienes una cuenta?</p>
+                      <a class="btn btn-outline-danger" href="REGISTER.jsp">REGISTRO</a>
                     </div>
                   </form>
                 </div>
