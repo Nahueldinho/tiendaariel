@@ -19,28 +19,31 @@
 
                     <h4 class="mt-1 mb-5 pb-1">Somos tu tienda de ropa</h4>
                   </div>
-                  <form>
+                  <form method="POST" action="login">
                     <p>Por favor inicia sesion en tu cuenta</p>
                     <div class="form-outline mb-4">
-                      <input type="email" id="form2Example11" class="form-control"
-                        placeholder="ingrese su direccion de correo electronico" />
-                      <label class="form-label" for="form2Example11">Ingrese su nombre de usuario</label>
+                      <input type="text" id="form2Example11" name="usuario" class="form-control"
+                        placeholder="ingrese su Usuario" />
+                      <label class="form-label" for="form2Example11">Ingrese su usuario</label>
                     </div>
   
                     <div class="form-outline mb-4">
-                      <input type="password" id="form2Example22" class="form-control" />
+                      <input type="password" id="form2Example22" name="password" class="form-control" />
                       <label class="form-label" for="form2Example22">ingrese su contraseña</label>
-                    </div>
-  
+
+                    <% if (session.getAttribute("error")==("ErrorLogin")){%>
+                    <p> error </p>
+                    <%}%>
+
                     <div class="text-center pt-1 mb-5 pb-1">
-                      <button class="btn btn-primary btn-block fa-lg gradient-custom-2 mb-3" type="button">Log
+                      <button class="btn btn-primary btn-block fa-lg gradient-custom-2 mb-3" type="submit">Log
                         in</button>
                       <a class="text-muted" href="#!">Olvidaste tu contraseña?</a>
                     </div>
   
                     <div class="d-flex align-items-center justify-content-center pb-4">
                       <p class="mb-0 me-2" >Todavia no tienes una cuenta?</p>
-                      <a class="btn btn-outline-danger" href="REGISTER.jsp">REGISTRO</a>
+                      <a class="btn btn-outline-danger" href="Register.jsp">REGISTRO</a>
                     </div>
                   </form>
                 </div>

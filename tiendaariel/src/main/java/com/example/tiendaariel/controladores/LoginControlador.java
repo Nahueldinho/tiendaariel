@@ -16,7 +16,6 @@ import java.io.IOException;
 public class LoginControlador extends HelloServlet{
     @Override
     protected void doPost(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
-
         String usuario = req.getParameter("usuario"); //usuario es el nombre del imput desde el form que llamo
         String password = req.getParameter("password"); //password es el nombre del imput desde el form que llamo
         HttpSession session = req.getSession();
@@ -37,7 +36,7 @@ public class LoginControlador extends HelloServlet{
             } else {
                 session.setAttribute("error", "ErrorLogin");    //indicamos que se produjo un error
                 req.setAttribute("status", "failed");   //indicamos que se produjo un error
-                disp = req.getRequestDispatcher("login.jsp");   //página a la que queremos volver
+                disp = req.getRequestDispatcher("Login.jsp");   //página a la que queremos volver
             }
             disp.forward(req, resp);
 

@@ -19,7 +19,12 @@
                 <a class="nav-link" href="index.jsp#Remeras">REMERAS</a>
                 <a class="nav-link" href="index.jsp#Camperas">CAMPERAS</a>
                 <a class="nav-link" href="index.jsp#Zapas">ZAPAS</a>
-                <a class="nav-link active" href="LOGIN.jsp">LOGIN</a>
+
+                <% if (session.getAttribute("nombre")==null){%>
+                    <a class="nav-link active" href="Login.jsp">LOGIN</a>
+                <%}else{%>
+                    <a class="nav-link active" href="Login.jsp">Cerrar</a>
+                <%}%>
             </div>
         </div>
     </div>
