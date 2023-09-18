@@ -21,10 +21,12 @@
                 <a class="nav-link" href="index.jsp#Zapas">ZAPAS</a>
 
                 <% if (session.getAttribute("nombre")==null){%>
-                    <a class="nav-link active" href="Login.jsp">LOGIN</a>
+                <a type="button" class= "btn btn-success" href="Login.jsp">LOGIN</a>
                 <%}else{%>
-                    <a class="nav-link active" href="Login.jsp">Cerrar</a>
-                <%}%>
+                    <a type="button" class= "btn btn-danger" href="index.jsp">CERRAR</a>
+                <% session.invalidate();
+                }%>
+
             </div>
         </div>
     </div>

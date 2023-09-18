@@ -32,7 +32,9 @@
                       <label class="form-label" for="form2Example22">ingrese su contraseña</label>
 
                     <% if (session.getAttribute("error")==("ErrorLogin")){%>
-                    <p> error </p>
+                        <br>
+                        <a class="text-danger"> Error al registrarse </a>
+
                     <%}%>
 
                     <div class="text-center pt-1 mb-5 pb-1">
