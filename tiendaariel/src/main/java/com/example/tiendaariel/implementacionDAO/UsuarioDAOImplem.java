@@ -46,10 +46,10 @@ public class UsuarioDAOImplem implements UsuarioDAO {
             ResultSet resultSet = statement.executeQuery();
             while (resultSet.next()){
                 usuario = new Usuario();
-                usuario.setId(resultSet.getInt("uid"));
+                usuario.setId(resultSet.getInt("id"));
                 usuario.setUsuario(resultSet.getString("usuario"));
                 usuario.setNombre(resultSet.getString("nombre"));
-                usuario.setApellido(resultSet.getString("uapellido"));
+                usuario.setApellido(resultSet.getString("apellido"));
                 usuario.setCorreo(resultSet.getString("correo"));
                 usuario.setPassword(resultSet.getString("password"));
             }
@@ -80,7 +80,7 @@ public class UsuarioDAOImplem implements UsuarioDAO {
         }
         return usuario;
     }
-    public void agregarUsuario(Usuario usuario){
+    public boolean agregarUsuario(Usuario usuario){
         String consulta = "insert into usuarios (id, usuario, nombre, apellido, correo, password) values (NULL, ?, ?, ?, ?, ?)";
 
         try{
@@ -91,8 +91,9 @@ public class UsuarioDAOImplem implements UsuarioDAO {
             st.setString(4, usuario.getCorreo());
             st.setString(5, usuario.getPassword());
             st.executeUpdate();
+            return true;
         }catch(Exception e){
-            e.printStackTrace();
+            return false;
         }
     }
 

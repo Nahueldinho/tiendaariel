@@ -13,7 +13,7 @@
         <div class="card" style="width: 2,8%; padding:1%">
             <img src="img/campera%20supreme.jpg" class="card-img-top" alt="...">
             <div class="card-body">
-                <h5 class="card-title">CAMPERA SUPREME</h5>
+                <h5 class="card-title">CAMPERA </h5>
                 <span class="badge badge-warning">SUPREME</span>
                 <span class="badge badge-info">NUEVO</span>
                 <p class="card-text">"La campera Supreme: estilo icónico que marca la diferencia."</p>
@@ -22,19 +22,19 @@
         <div class="card" style="width: 2,8%; padding:1%">
             <img src="img/campera%20supreme.jpg" class="card-img-top" alt="...">
             <div class="card-body">
-                <h5 class="card-title">CAMPERA THE NORTH FACE</h5>
+                <h5 class="card-title">CAMPERA </h5>
                 <span class="badge badge-warning">SUPREME</span>
                 <span class="badge badge-info">NUEVO</span>
-                <p class="card-text">"Descubre la esencia del aventurero con la campera The North Face. Diseño innovador y protección sin igual para explorar sin límites."</p>
+                <p class="card-text">"La campera Supreme: estilo icónico que marca la diferencia."</p>
             </div>
         </div>
         <div class="card" style="width: 2,8%; padding:1%">
             <img src="img/campera%20supreme.jpg" class="card-img-top" alt="...">
             <div class="card-body">
-                <h5 class="card-title">JORDAN'S TRAVIS SCOTT</h5>
-                <span class="badge badge-secondary">SNEACKERS</span>
-                <span class="badge badge-danger">NUEVO</span>
-                <p class="card-text">"Camina con el estilo legendario de Travis Scott con las Jordans que marcan tendencia. Eleva tu juego, ¡sé parte de la cultura!"</p>
+                <h5 class="card-title">CAMPERA</h5>
+                <span class="badge badge-warning">SUPREME</span>
+                <span class="badge badge-info">NUEVO</span>
+                <p class="card-text">"La campera Supreme: estilo icónico que marca la diferencia."</p>
             </div>
         </div>
     </div>
@@ -46,17 +46,8 @@
         <div class="card" style="width: 2,8%; padding:1%">
             <img src="img/campera%20supreme%203.jpg" class="card-img-top" alt="...">
             <div class="card-body">
-                <h5 class="card-title">CAMPERA SUPREME</h5>
-                <span class="badge badge-warning">SUPREME</span>
-                <span class="badge badge-info">NUEVO</span>
-                <p class="card-text">"La campera Supreme: estilo icónico que marca la diferencia."</p>
-            </div>
-        </div>
-        <div class="card" style="width: 2,8%; padding:1%">
-            <img src="img/campera%20supreme%203.jpg" class="card-img-top" alt="...">
-            <div class="card-body">
                 <h5 class="card-title">CAMPERA THE NORTH FACE</h5>
-                <span class="badge badge-warning">SUPREME</span>
+                <span class="badge badge-warning">NORTHFACE</span>
                 <span class="badge badge-info">NUEVO</span>
                 <p class="card-text">"Descubre la esencia del aventurero con la campera The North Face. Diseño innovador y protección sin igual para explorar sin límites."</p>
             </div>
@@ -64,10 +55,19 @@
         <div class="card" style="width: 2,8%; padding:1%">
             <img src="img/campera%20supreme%203.jpg" class="card-img-top" alt="...">
             <div class="card-body">
-                <h5 class="card-title">JORDAN'S TRAVIS SCOTT</h5>
-                <span class="badge badge-secondary">SNEACKERS</span>
-                <span class="badge badge-danger">NUEVO</span>
-                <p class="card-text">"Camina con el estilo legendario de Travis Scott con las Jordans que marcan tendencia. Eleva tu juego, ¡sé parte de la cultura!"</p>
+                <h5 class="card-title">CAMPERA THE NORTH FACE</h5>
+                <span class="badge badge-warning">NORTHFACE</span>
+                <span class="badge badge-info">NUEVO</span>
+                <p class="card-text">"Descubre la esencia del aventurero con la campera The North Face. Diseño innovador y protección sin igual para explorar sin límites."</p>
+            </div>
+        </div>
+        <div class="card" style="width: 2,8%; padding:1%">
+            <img src="img/campera%20supreme%203.jpg" class="card-img-top" alt="...">
+            <div class="card-body">
+                <h5 class="card-title">CAMPERA THE NORTH FACE</h5>
+                <span class="badge badge-warning">NORTHFACE</span>
+                <span class="badge badge-info">NUEVO</span>
+                <p class="card-text">"Descubre la esencia del aventurero con la campera The North Face. Diseño innovador y protección sin igual para explorar sin límites."</p>
             </div>
         </div>
     </div>
@@ -79,27 +79,27 @@
         <div class="card" style="width: 2,8%; padding:1%">
             <img src="img/air-jordan-1-2.jpg" class="card-img-top" alt="...">
             <div class="card-body">
-                <h5 class="card-title">CAMPERA SUPREME</h5>
-                <span class="badge badge-warning">SUPREME</span>
-                <span class="badge badge-info">NUEVO</span>
-                <p class="card-text">"La campera Supreme: estilo icónico que marca la diferencia."</p>
-            </div>
-        </div>
-        <div class="card" style="width: 2,8%; padding:1%">
-            <img src="img/air-jordan-1-2.jpg" class="card-img-top" alt="...">
-            <div class="card-body">
-                <h5 class="card-title">CAMPERA THE NORTH FACE</h5>
-                <span class="badge badge-warning">SUPREME</span>
-                <span class="badge badge-info">NUEVO</span>
-                <p class="card-text">"Descubre la esencia del aventurero con la campera The North Face. Diseño innovador y protección sin igual para explorar sin límites."</p>
-            </div>
-        </div>
-        <div class="card" style="width: 2,8%; padding:1%">
-            <img src="img/air-jordan-1-2.jpg" class="card-img-top" alt="...">
-            <div class="card-body">
-                <h5 class="card-title">JORDAN'S TRAVIS SCOTT</h5>
+                <h5 class="card-title">JORDAN'S </h5>
                 <span class="badge badge-secondary">SNEACKERS</span>
                 <span class="badge badge-danger">NUEVO</span>
+                <p class="card-text">"Camina con el estilo legendario de Travis Scott con las Jordans que marcan tendencia. Eleva tu juego, ¡sé parte de la cultura!"</p>
+            </div>
+        </div>
+        <div class="card" style="width: 2,8%; padding:1%">
+            <img src="img/air-jordan-1-2.jpg" class="card-img-top" alt="...">
+            <div class="card-body">
+                <h5 class="card-title">JORDAN'S </h5>
+                <span class="badge badge-secondary">SNEACKERS</span>
+                <span class="badge badge-danger">NUEVO</span>
+                <p class="card-text">"Camina con el estilo legendario de Travis Scott con las Jordans que marcan tendencia. Eleva tu juego, ¡sé parte de la cultura!"</p>
+            </div>
+        </div>
+        <div class="card" style="width: 2,8%; padding:1%">
+            <img src="img/air-jordan-1-2.jpg" class="card-img-top" alt="...">
+            <div class="card-body">
+                <h5 class="card-title">JORDAN'S </h5>
+                <span class="badge badge-esecondary">SNEACKERS</span>
+                <span class="badge badge-dangr">NUEVO</span>
                 <p class="card-text">"Camina con el estilo legendario de Travis Scott con las Jordans que marcan tendencia. Eleva tu juego, ¡sé parte de la cultura!"</p>
             </div>
         </div>

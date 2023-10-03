@@ -33,8 +33,7 @@
 
                     <% if (session.getAttribute("error")==("ErrorLogin")){%>
                         <br>
-                        <a class="text-danger"> Error al registrarse </a>
-
+                        <a class="text-danger"> Error al logearse </a>
                     <%}%>
 
                     <div class="text-center pt-1 mb-5 pb-1">
