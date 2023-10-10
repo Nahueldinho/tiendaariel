@@ -58,7 +58,6 @@ public class UsuarioDAOImplem implements UsuarioDAO {
         }
         return usuario;
     }
-
     public Usuario obtenerUsuario(String user, String password){
         Usuario usuario = null;
         try{
