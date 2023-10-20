@@ -21,7 +21,7 @@
                     <div class="col-lg-8 offset-lg-4">
                         <h3>Conf ProA</h3>
                         <p>NUEVOS PRODUCTOS CON TODO EL FLOW PARA VOS</p>
-                        <p><a class="btn btn-outline-light mb-3" href="#formulario">QUIERO VER</a> <a class="btn btn-success mb-3" href="#">VER CARRITO</a></p>
+                        <p> <a class="btn btn-success mb-3" href="#">VER CARRITO</a></p>
                     </div>
                 </div>
             </div>
@@ -34,7 +34,7 @@
                     <div class="col-lg-8 offset-lg-4">
                         <h3>Conf ProA</h3>
                         <p>NUEVOS PRODUCTOS CON TODO EL FLOW PARA VOS</p>
-                        <p><a class="btn btn-outline-light mb-3" href="#formulario">QUIERO VER</a> <a class="btn btn-success mb-3" href="#">VER CARRITO</a></p>
+                        <p><a class="btn btn-success mb-3" href="#">VER CARRITO</a></p>
                     </div>
                 </div>
             </div>
@@ -46,7 +46,7 @@
                     <div class="col-lg-8 offset-lg-4">
                         <h3>Conf ProA</h3>
                         <p>NUEVOS PRODUCTOS CON TODO EL FLOW PARA VOS</p>
-                        <p><a class="btn btn-outline-light mb-3" href="#formulario">QUIERO VER</a> <a class="btn btn-success mb-3" href="#">VER CARRITO</a></p>
+                        <p><a class="btn btn-success mb-3" href="#">VER CARRITO</a></p>
                     </div>
                 </div>
             </div>

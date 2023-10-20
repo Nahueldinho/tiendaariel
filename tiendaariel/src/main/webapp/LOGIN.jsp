@@ -49,11 +49,6 @@
                   </form>
                 </div>
               </div>
-              <div class="col-lg-6 d-flex align-items-center gradient-custom-2">
-                <div class="text-white px-3 py-4 p-md-5 mx-md-4">
-                  <h4 style="color: black;">somos mas que una simple tienda de ropa urbana, somos Pilcha's</h4>
-                  <p style="color: black;">"Conectá con el auténtico ritmo urbano, donde el trap, el hip hop y el drip se fusionan en tu estilo de vida, en cada prenda que elegís."</p>
-                </div>
               </div>
             </div>
           </div>

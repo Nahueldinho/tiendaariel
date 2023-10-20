@@ -60,7 +60,7 @@
                         <label class="form-label" for="form3Example2cd">confirme su contraseña</label>
                       </div>
 
-                        <% if (session.getAttribute("error")==("ErrorRegister")){%> comprobacion de contraseñas
+                        <% if (session.getAttribute("error")==("ErrorRegister")){%>
 
                             <a class="text-danger"> Error al registrarse, datos existentes </a>
                         <%}else{
